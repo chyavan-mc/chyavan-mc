@@ -1,7 +1,7 @@
 ### Howdy!
 ---
 
-✨ I’m Chyavan! Welcome to my Github profile. Feel free to checkout my projects!
+✨ I’m Chyavan! Welcome to my Github profile. Feel free to check out my projects!
 
 🔭 I’m currently a Master of Science Student learning Business Analytics
 
