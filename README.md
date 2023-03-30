@@ -3,7 +3,7 @@
 
 ✨ I’m Chyavan! Welcome to my Github profile. Feel free to check out my projects!
 
-🔭 I’m currently a Master of Science Student learning Business Analytics
+🔭 I’m currently a Master of Science Student at the University of Texas, Austin
 
 🚀 To know more about me, you can visit my [Portfolio website](https://chyavan-mc.github.io/) (I'm still experimenting with the page)
 
